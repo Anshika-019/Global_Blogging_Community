@@ -36,5 +36,5 @@ We have build Blogging  Application.
     - Comment
 
   ## Layered Architechture
-     ![alt text](https://drive.google.com/drive/u/1/folders/1tIhKYAUN0akk5BKGY6Id5asBNt47IwDy)
+     ![alt text]([https://drive.google.com/drive/u/1/folders/1tIhKYAUN0akk5BKGY6Id5asBNt47IwDy](https://drive.google.com/file/d/1JR00SeeDaCZ-7ktD6PAZaVxcGLDA_9uk/view?usp=sharing)https://drive.google.com/file/d/1JR00SeeDaCZ-7ktD6PAZaVxcGLDA_9uk/view?usp=sharing)
   
